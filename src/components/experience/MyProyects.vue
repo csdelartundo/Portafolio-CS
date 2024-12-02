@@ -33,6 +33,21 @@
           Pyme "El Chileno Temático"
         </a>
       </div>
+
+      <!-- Tercer proyecto -->
+      <div
+        class="flex flex-col items-center space-y-2 bg-blue-100 rounded-md p-3 shadow-sm hover:bg-blue-200 transition-colors">
+        <!-- Imagen del proyecto con tamaño reducido y efecto hover -->
+        <div class="group relative">
+          <img src="/src/assets/img/todolist.png" alt="To Do List"
+            class="w-48 h-auto transition-transform transform group-hover:scale-105" />
+        </div>
+        <!-- Enlace del proyecto con estilo y efecto hover -->
+        <a href="https://elchileno.vercel.app/" target="_blank"
+          class="bg-blue-100 text-blue-800 rounded-md p-3 shadow-sm hover:bg-blue-200 transition-colors">
+          To Do List
+        </a>
+      </div>
     </div>
   </div>
 </template>
