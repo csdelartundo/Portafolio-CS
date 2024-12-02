@@ -37,7 +37,7 @@
           <img src="/src/assets/img/todolist.png" alt="To Do List"
             class="w-48 h-auto transition-transform transform group-hover:scale-105" />
         </div>
-        <a href="https://elchileno.vercel.app/" target="_blank"
+        <a href="https://todo-list-gamma-sand.vercel.app/" target="_blank"
           class="bg-blue-100 text-blue-800 rounded-md p-3 shadow-sm hover:bg-blue-200 transition-colors">
           To Do List
         </a>
